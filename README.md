@@ -32,6 +32,10 @@
 
 MikanOS を改造したり、独自の OS を作ったりしたら、ぜひ個人ページで自慢してください！
 
+### よくある質問と回答
+
+WiKi の [FAQ](https://github.com/uchan-nos/os-from-zero/wiki/FAQ) にまとまっています。
+
 ## 書籍情報
 
 - タイトル：ゼロからの OS 自作入門
