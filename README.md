@@ -15,8 +15,10 @@
 
 ### 議論の場
 
-また、質疑応答に限らず、発展的な議論などに Issues を活用していただけます。
+また、質疑応答に限らず、少し発展的な議論などに Issues を活用していただけます。
 トピックごとに Issue を立て、議論を深めていってください。
+
+深い議論を行いたい場合は osdev-jp の Slack やメーリングリストもご活用ください。
 
 ### 正誤表
 
@@ -44,7 +46,13 @@ WiKi の [FAQ](https://github.com/uchan-nos/os-from-zero/wiki/FAQ) にまとま�
 - 出版予定日：2021 年 3 月 22 日
 - ページ数：768（最大。実際はもっと少なくなる予想）
 - ISBN：978-4-8399-7586-9
-- 出版社の書籍ページ：[ゼロからのOS自作入門 | マイナビブックス](https://book.mynavi.jp/ec/products/detail/id=121220)
+- 出版社の書籍ページ：[ゼロからのOS自作入門 - マイナビブックス](https://book.mynavi.jp/ec/products/detail/id=121220)
+
+## リンク集
+
+- MikanOS ソースコード：https://github.com/uchan-nos/mikanos
+- MikanOS 開発環境：https://github.com/uchan-nos/mikanos-build
+- osdev-jp：https://osdev.jp/
 
 ## osdev-jp
 
