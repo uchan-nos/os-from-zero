@@ -50,9 +50,9 @@ WiKi の [FAQ](https://github.com/uchan-nos/os-from-zero/wiki/FAQ) にまとま�
 
 ## リンク集
 
-- MikanOS ソースコード：[[https://github.com/uchan-nos/mikanos]]
-- MikanOS 開発環境：https://github.com/uchan-nos/mikanos-build
-- osdev-jp：https://osdev.jp/
+- MikanOS ソースコード：[github.com/uchan-nos/mikanos](https://github.com/uchan-nos/mikanos)
+- MikanOS 開発環境：[github.com/uchan-nos/mikanos-build](https://github.com/uchan-nos/mikanos-build)
+- osdev-jp：[osdev.jp](https://osdev.jp/)
 
 ## osdev-jp
 
@@ -60,4 +60,4 @@ WiKi の [FAQ](https://github.com/uchan-nos/os-from-zero/wiki/FAQ) にまとま�
 自作 OS やその関連技術が好きな人が集まるコミュニティになっておりますので、興味のある方はご加入ください。
 
 osdev-jp では、定期的に「自作 OS もくもく会」を開催しています。よろしければご参加ください。
-もくもく会の開催が決まると https://osdev-jp.connpass.com/ で告知、募集が行われます。
+もくもく会の開催が決まると [connpass の osdev-jp ページ](https://osdev-jp.connpass.com/) で告知、募集が行われます。
