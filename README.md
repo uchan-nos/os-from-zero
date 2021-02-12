@@ -50,7 +50,7 @@ WiKi の [FAQ](https://github.com/uchan-nos/os-from-zero/wiki/FAQ) にまとま�
 
 ## リンク集
 
-- MikanOS ソースコード：https://github.com/uchan-nos/mikanos
+- MikanOS ソースコード：[[https://github.com/uchan-nos/mikanos]]
 - MikanOS 開発環境：https://github.com/uchan-nos/mikanos-build
 - osdev-jp：https://osdev.jp/
 
