@@ -36,7 +36,7 @@ MikanOS を改造したり、独自の OS を作ったりしたら、ぜひ個�
 
 ## よくある質問と回答
 
-Wiki の [FAQ](https://github.com/uchan-nos/os-from-zero/wiki/FAQ) にまとまっています。
+[FAQ](./faq) にまとまっています。
 
 ## 書籍情報
 
