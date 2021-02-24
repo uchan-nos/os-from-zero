@@ -127,6 +127,7 @@
 - 11.1 ソースコード整理（osbook_day11a）
 - 11.2 タイマ割り込み（osbook_day11b）
 - 11.3 細かく時間を計る（osbook_day11c）
+- コラム11.1 volatileの必要性
 - 11.4 複数のタイマとタイムアウト通知（osbook_day11d）
 - 11.5 ACPI PMタイマとRSDP（osbook_day11e）
 
