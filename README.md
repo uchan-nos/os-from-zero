@@ -55,6 +55,7 @@ MikanOS を改造したり、独自の OS を作ったりしたら、ぜひ個�
 - MikanOS ソースコード：[github.com/uchan-nos/mikanos](https://github.com/uchan-nos/mikanos)
 - MikanOS 開発環境：[github.com/uchan-nos/mikanos-build](https://github.com/uchan-nos/mikanos-build)
 - osdev-jp：[osdev.jp](https://osdev.jp/)
+- 著者（uchan）のTwitter：[@uchan_nos](https://twitter.com/uchan_nos)
 
 ## osdev-jp
 
