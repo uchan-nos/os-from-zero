@@ -46,8 +46,9 @@ MikanOS を改造したり、独自の OS を作ったりしたら、ぜひ個�
 - 出版予定日：2021 年 3 月 22 日
 - ページ数：768（最大。実際はもっと少なくなる予想）
 - ISBN：978-4-8399-7586-9
-- 出版社の書籍ページ：[ゼロからのOS自作入門 - マイナビブックス](https://book.mynavi.jp/ec/products/detail/id=121220)
-- 目次：[ゼロからのOS自作入門の目次](./toc.md)
+- [ゼロからのOS自作入門の目次](./toc.md)
+- [マイナビ出版の書籍ページ](https://book.mynavi.jp/ec/products/detail/id=121220)
+- [Amazonの商品ページ](https://amzn.to/2ZNwQtn)
 
 ## リンク集
 
