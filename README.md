@@ -3,6 +3,10 @@
 このリポジトリは 2021 年 3 月に出版予定の書籍『ゼロからの OS 自作入門』のサポートを行う場所です。
 書籍の内容に関する質疑応答、正誤表の提供、読者同士のコミュニケーションを主な目的としています。
 
+![表紙画像](./book-cover.png)
+
+[「はじめに」と「0章」のサンプル PDF ファイル](./book-sample.pdf)
+
 ## 質疑応答
 
 書籍の内容に関する質疑応答は [Issues](https://github.com/uchan-nos/os-from-zero/issues) で受け付けます。
@@ -49,6 +53,7 @@ MikanOS を改造したり、独自の OS を作ったりしたら、ぜひ個�
 - [ゼロからのOS自作入門の目次](./toc.md)
 - [マイナビ出版の書籍ページ](https://book.mynavi.jp/ec/products/detail/id=121220)
 - [Amazonの商品ページ](https://amzn.to/2ZNwQtn)
+- [サンプル PDF](./book-sample.pdf)
 
 ## リンク集
 
