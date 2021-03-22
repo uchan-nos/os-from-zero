@@ -48,13 +48,14 @@ MikanOS を改造したり、独自の OS を作ったりしたら、ぜひ個�
 - タイトル：ゼロからの OS 自作入門
 - 著者：内田公太（uchan）
 - 出版社：マイナビ出版
-- 出版予定日：2021 年 3 月 22 日
-- ページ数：768（最大。実際はもっと少なくなる予想）
+- 出版日：2021 年 3 月 22 日
+- ページ数：744
 - ISBN：978-4-8399-7586-9
 - [ゼロからのOS自作入門の目次](./toc.md)
 - [マイナビ出版の書籍ページ](https://book.mynavi.jp/ec/products/detail/id=121220)
 - [Amazonの商品ページ](https://amzn.to/2ZNwQtn)
 - [サンプル PDF](./book-sample.pdf)
+- [公式ハッシュタグ](https://twitter.com/hashtag/%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E3%81%AEOS%E8%87%AA%E4%BD%9C%E5%85%A5%E9%96%80)
 
 ## リンク集
 
