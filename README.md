@@ -33,9 +33,9 @@ Discord 招待リンク→ [discord.gg/w227g2Q](https://discord.gg/w227g2Q)
 
 深い議論を行いたい場合は [osdev-jp](https://osdev.jp/) の Slack やメーリングリストもご活用ください。
 
-## 正誤表
+## 正誤情報
 
-正誤表は errata ディレクトリに随時追加されていく予定です。
+正誤情報は errata ディレクトリに随時追加していきます。初版1刷の正誤情報は [first_1suri](./errata/first_1suri.md) です。
 
 ## 読書記録、成果物の紹介
 
