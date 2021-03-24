@@ -4,12 +4,12 @@
 
 - p.49 第4段落
     - 誤：「付録A　EDK IIのファイル説明」
-    - 正：「付録C　EDK IIのファイル説明」（参照を太字に）
+    - 正：「**付録C　EDK IIのファイル説明**」
 - p.50 第1段落の4行目
     - 誤：`#nclude`
     - 正：`#include`
 - p.51 表2.1
-    - 正しい表のイメージ https://github.com/uchan-nos/os-from-zero/issues/3#issuecomment-803728531
+    - [正しい表のイメージ](https://github.com/uchan-nos/os-from-zero/issues/3#issuecomment-803728531)
     - ヘッダ行（網掛け部分）には「設定項目」「設定値」が来るのが正しい。
     - 最終行は不要。
 - p.56 リスト2.6
