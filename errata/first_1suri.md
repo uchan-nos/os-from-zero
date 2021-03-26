@@ -41,8 +41,8 @@
     - 誤：EDK IIのUefi.h体
     - 正：EDK IIのUefi.h
 - p.52 リスト2.4
-    - 誤：リスト2.4　EDK IIのUefiBaseType.h体
-    - 正：**リスト2.4　EDK IIのUefiBaseType.h体**
+    - 誤：リスト2.4　EDK IIのUefiBaseType.h
+    - 正：**リスト2.4　EDK IIのUefiBaseType.h**
 - p.55 表2.3 Type=4の行
     - 誤：EfiBootServicesCode
     - 正：EfiBootServicesData
