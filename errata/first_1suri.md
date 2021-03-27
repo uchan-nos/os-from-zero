@@ -117,6 +117,33 @@
 - p.94 埋め込みリスト
     - 誤：`clang++ -I/home/uchan/osbook/devenv/x86_64-elf/include/c++/v1 -I/home/uchan/osbook/evenv/x86_64-elf/include -nostdlibinc -D__ELF__ -D_LDBL_EQ_DBL -D_GNU_SOURCE -D_POSIX_TIMERS -O2 --target=x86_64-elf -fno-exceptions -ffreestanding -c main.cpp`
     - 正：`clang++ -I/home/uchan/osbook/devenv/x86_64-elf/include/c++/v1 -I/home/uchan/osbook/devenv/x86_64-elf/include -I/home/uchan/osbook/devenv/x86_64-elf/include/freetype2 -nostdlibinc -D__ELF__ -D_LDBL_EQ_DBL -D_GNU_SOURCE -D_POSIX_TIMERS -O2 -Wall -g --target=x86_64-elf -ffreestanding -mno-red-zone -fno-exceptions -fno-rtti -std=c++17 -c main.cpp`
+- p.99 最終段落の3行目
+    - 誤：図4.1
+    - 正：**図4.1**
+- p.101 第3段落の3行目
+    - 誤：「コラム3.1　レッドゾーン」
+    - 正：「**コラム3.1　レッドゾーン**」
+- p.106 第2段落の6行目
+    - 誤：「4.4　vtable」
+    - 正：「**4.4　vtable**」
+- p.106 第3段落の4行目
+    - 誤：意味的にきれいにプログラム
+    - 正：意味的にきれいなプログラム
+- p.107 第5段落の6行目
+    - 誤：知人やosdev-jpに質問するといいでしょう。
+    - 正：知人や本書のサポートサイトに質問するといいでしょう。
+- p.108 第1段落の4行目
+    - 誤：vtableというものを実現しています
+    - 正：vtableを用いて実現しています
+- p.108 第3段落の5行目
+    - 誤：Base::Func
+    - 正：`Base::Func`
+- p.110 第3段落の2行目
+    - 誤：「第19 章　ページング」
+    - 正：「**第19 章　ページング**」
+- p.110 最終段落の1行目
+    - 誤：図4.4
+    - 正：**図4.4**
 - p.716 第1段落の4行目
     - 誤：WSL（**A.1** を参照）
     - 正：WSL（**A.01** を参照）
