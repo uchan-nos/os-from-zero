@@ -114,6 +114,9 @@
 - p.94 第2段落の1行目
     - 誤：「第3章　画面表示の練習とブートローダ」
     - 正：「**第3章　画面表示の練習とブートローダ**」
+- p.94 埋め込みリスト
+    - 誤：`clang++ -I/home/uchan/osbook/devenv/x86_64-elf/include/c++/v1 -I/home/uchan/osbook/evenv/x86_64-elf/include -nostdlibinc -D__ELF__ -D_LDBL_EQ_DBL -D_GNU_SOURCE -D_POSIX_TIMERS -O2 --target=x86_64-elf -fno-exceptions -ffreestanding -c main.cpp`
+    - 正：`clang++ -I/home/uchan/osbook/devenv/x86_64-elf/include/c++/v1 -I/home/uchan/osbook/devenv/x86_64-elf/include -I/home/uchan/osbook/devenv/x86_64-elf/include/freetype2 -nostdlibinc -D__ELF__ -D_LDBL_EQ_DBL -D_GNU_SOURCE -D_POSIX_TIMERS -O2 -Wall -g --target=x86_64-elf -ffreestanding -mno-red-zone -fno-exceptions -fno-rtti -std=c++17 -c main.cpp`
 - p.716 第1段落の4行目
     - 誤：WSL（**A.1** を参照）
     - 正：WSL（**A.01** を参照）
