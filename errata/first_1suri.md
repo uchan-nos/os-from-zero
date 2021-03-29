@@ -81,8 +81,8 @@
     EFI_FILE_PROTOCOL* memmap_file;
     EFI_FILE_PROTOCOL** ptr_ptr = &memmap_file;
     root_dir->Open(
-        root_dir, ptr_ptr, L"\\memmap",
-        EFI_FILE_MODE_READ | EFI_FILE_MODE_WRITE | EFI_FILE_MODE_CREATE, 0);
+    ␣␣␣␣root_dir, ptr_ptr, L"\\memmap",
+    ␣␣␣␣EFI_FILE_MODE_READ | EFI_FILE_MODE_WRITE | EFI_FILE_MODE_CREATE, 0);
     ```
 - p.68 脚注1
     - 誤：使えます。。
