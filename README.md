@@ -92,5 +92,3 @@ osdev-jp では、定期的に「自作 OS もくもく会」を開催してい�
 - 第3弾：締め切り 2021 年 4 月 21 日
 
 第3弾の応募はこちらから： [「ゼロからのOS自作入門」プレゼント（第3弾）](https://docs.google.com/forms/d/e/1FAIpQLSdtn_43oqselsCWfd6quo39sUTblWAs6CMSIjdI96js2qU23A/viewform?usp=sf_link)
-
-※第3弾の応募フォームは、第2弾の締め切り後に公開します。
