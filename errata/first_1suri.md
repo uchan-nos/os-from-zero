@@ -53,6 +53,9 @@
 - p.108 第1段落の4行目
     - 誤：vtableというものを実現しています
     - 正：vtableを用いて実現しています
+- p.108 表4.4タイトル
+    - 誤：クラスのvtable
+    - 正：`Base`クラスのvtable
 - p.137 リスト6.4タイトル
     - 誤：（graphics.hpp）
     - 正：（osbook_day06cのgraphics.hpp）
