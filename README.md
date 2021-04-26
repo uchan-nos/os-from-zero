@@ -35,7 +35,8 @@ Discord 招待リンク→ [discord.gg/w227g2Q](https://discord.gg/w227g2Q)
 
 ## 正誤情報
 
-正誤情報は errata ディレクトリに随時追加していきます。初版第2刷の正誤情報は [first_2suri](./errata/first_2suri.md) です。
+正誤情報は errata ディレクトリに随時追加していきます。
+初版の正誤情報へのリンク： [第1刷](./errata/first_1suri.md) [第2刷](./errata/first_2suri.md)
 
 ## 読書記録、成果物の紹介
 
