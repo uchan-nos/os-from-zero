@@ -38,6 +38,12 @@ Discord 招待リンク→ [discord.gg/w227g2Q](https://discord.gg/w227g2Q)
 正誤情報は errata ディレクトリに随時追加していきます。
 初版の正誤情報へのリンク： [第1刷](./errata/first_1suri.md) [第2刷](./errata/first_2suri.md)
 
+## 参考文献 URL
+
+最新の参考文献の URL を [ref-latest](./ref-latest.md) にて集約しています。
+リンク切れを見つけた際は報告、またはプルリクエストをいただけると幸いです。
+（リンク先は常に変動する可能性があるため、正誤としては扱いません）
+
 ## 読書記録、成果物の紹介
 
 読書記録や成果物の紹介などは、ぜひ当リポジトリの [Wiki](https://github.com/uchan-nos/os-from-zero/wiki) に書いて欲しいなと思います。
