@@ -8,19 +8,19 @@
 2. Unified Extensible Firmware Interface Specification Version 2.8
     - https://www.uefi.org/specifications
 3. Intel 64 and IA-32 Architectures Software Developer's Manual
-    - https://software.intel.com/en-us/articles/intel-sdm
+    - https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html
 4. QEMU/Monitor
     - https://en.wikibooks.org/wiki/QEMU/Monitor
 5. System V Application Binary Interface - DRAFT
     - https://refspecs.linuxfoundation.org/elf/gabi4+/contents.html
 6. System V Application Binary Interface AMD64 Architecture Processor Supplement
-    - https://software.intel.com/sites/default/files/article/402129/mpx-linux64-abi.pdf
+    - https://software.intel.com/content/dam/develop/external/us/en/documents/mpx-linux64-abi.pdf
 7. GNU Make 第3 版
     - https://www.oreilly.co.jp/library/4873112699/
 8. リンカ・ローダ実践開発テクニック
     - https://shop.cqpub.co.jp/hanbai/books/38/38071.html
 9. Intel 7 Series / C216 Chipset Family Platform Controller Hub Datasheet
-    - https://www.intel.com/content/dam/www/public/us/en/documents/datasheets/7-serieschipset-pch-datasheet.pdf
+    - https://www.intel.com/content/dam/www/public/us/en/documents/datasheets/7-series-chipset-pch-datasheet.pdf
 10. The PCI ID Repository
     - https://pci-ids.ucw.cz/
 11. C++ Concurrency in Action, Second Edition
@@ -34,6 +34,6 @@
 15. Microsoft Extensible Firmware Initiative FAT32 File System Specification
     - http://download.microsoft.com/download/0/8/4/084C452B-B772-4FE5-89BB-A0CBF082286A/fatgen103.doc
 16. EDK II Platform Description (DSC) File Specification
-     - https://edk2-docs.gitbook.io/edk-ii-dsc-specification/
+    - https://edk2-docs.gitbook.io/edk-ii-dsc-specification/
 17. EDK II Module Information (INF) File Specification
     - https://edk2-docs.gitbook.io/edk-ii-inf-specification/
