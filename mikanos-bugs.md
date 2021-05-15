@@ -9,3 +9,4 @@ master ブランチに対するバグ報告は、サポートサイトの Issues
 ## MikanOS に存在する既知のバグ
 
 - osbook_day15b ~ osbook_day16f: [osbook_day15b で実行後すぐにTaskBウィンドウが消える](https://github.com/uchan-nos/os-from-zero/issues/42)
+- osbook_day06b: [ScanAllBus() で function=0 から探索すべき](https://github.com/uchan-nos/os-from-zero/issues/58)
