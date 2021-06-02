@@ -52,6 +52,15 @@
 - p.52 リスト2.4
     - 誤：リスト2.4　EDK IIのUefiBaseType.h
     - 正：**リスト2.4　EDK IIのUefiBaseType.h**
+- p.54 表2.2 0x00001000の行
+    - 誤：`EfiConvensionalMemory`
+    - 正：`EfiConventionalMemory`
+- p.54 表2.2 0x00100000の行
+    - 誤：`EfiConvensionalMemory`
+    - 正：`EfiConventionalMemory`
+- p.54 第5段落の5行目
+    - 誤：4億程度
+    - 正：43億程度
 - p.55 表2.3 Type=4の行
     - 誤：EfiBootServicesCode
     - 正：EfiBootServicesData
@@ -106,6 +115,18 @@
 - p.73 第2段落の2行目
     - 誤：\_\_asm\_\_()
     - 正：`__asm__()`
+- p.73 第4段落直後のコマンド
+    - 誤：
+        ```
+        $ cd $HOME/workspace/mikanos/kernel
+        $ git checkout osbook_day03a
+        ```
+    - 正：
+        ```
+        $ cd $HOME/workspace/mikanos
+        $ git checkout osbook_day03a
+        $ cd kernel
+        ```
 - p.74 第1段落の5行目
     - 誤：`fno-rtti`
     - 正：`-fno-rtti`
@@ -183,6 +204,12 @@
 - p.215 第3段落の1行目
     - 誤：**リスト 9.1** 1 に
     - 正：**リスト 9.11** に
+- p.255 第2段落の1行目
+    - 誤：`Layer::Draw()` に対して描画範囲を指定
+    - 正：`Layer::DrawTo()` に対して描画範囲を指定
+- p.255 第2段落の2行目
+    - 誤：`Layer::Draw()` 側を改造
+    - 正：`Layer::DrawTo()` 側を改造
 - p.429 リスト18.18
     - リスト最終行と脚注1が重なってしまっている
     - リストの最終行は `v = v * 10 + (s[i] - '0');`
@@ -196,6 +223,12 @@
 - p.443 図19.3中段
     - 誤：`PG`
     - 正：`PD`
+- p.468 第1段落の1行目
+    - 誤：108バイト
+    - 正：104バイト
+- p.586 リスト25.3タイトル
+    - 誤：（terminal.cpp）
+    - 正：（fat.cpp）
 - p.716 第1段落の4行目
     - 誤：WSL（**A.1** を参照）
     - 正：WSL（**A.01** を参照）

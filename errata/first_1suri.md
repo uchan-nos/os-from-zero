@@ -47,6 +47,18 @@
 - p.72 3.3 第4段落の4行目
     - 誤：`_Z3addii`
     - 正：`_Z3fooii`
+- p.73 第4段落直後のコマンド
+    - 誤：
+        ```
+        $ cd $HOME/workspace/mikanos/kernel
+        $ git checkout osbook_day03a
+        ```
+    - 正：
+        ```
+        $ cd $HOME/workspace/mikanos
+        $ git checkout osbook_day03a
+        $ cd kernel
+        ```
 - p.80 第5段落の6行目
     - 誤：0x669f028
     - 正：0x101010
@@ -59,6 +71,12 @@
 - p.137 リスト6.4タイトル
     - 誤：（graphics.hpp）
     - 正：（osbook_day06cのgraphics.hpp）
+- p.255 第2段落の1行目
+    - 誤：`Layer::Draw()` に対して描画範囲を指定
+    - 正：`Layer::DrawTo()` に対して描画範囲を指定
+- p.255 第2段落の2行目
+    - 誤：`Layer::Draw()` 側を改造
+    - 正：`Layer::DrawTo()` 側を改造
 - p.429 リスト18.18
     - リスト最終行と脚注1が重なってしまっている
     - リストの最終行は `v = v * 10 + (s[i] - '0');`
