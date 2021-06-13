@@ -55,3 +55,14 @@ Raspberry Pi は ARM という CPU が搭載されており、MikanOS は動作�
 exFAT でフォーマットすると起動できないけど、FAT32 では正常に起動した、という報告を複数いただいていますので、FAT32 を選ぶ方が安全かなと思います。
 
 Windows はどうやら、FAT32 でフォーマットできるサイズの上限を 32GB までとしているようで、筆者がその時使った 64GB の USB メモリでは FAT32 が選択肢に出ませんでした。
+
+## ln -s コマンドでリンクの修正ができません
+
+本書では $HOME/edk2 に MikanLoaderPkg という名前のシンボリックリンクを作ります。
+`ln -s` の引数を打ち間違うなど、意図しないリンクを作成してしまった場合、再度同じコマンドを実行してもエラーになってしまいます。
+
+解決方法は [これだけは知っておきたい Linux コマンド の ln の節](https://github.com/uchan-nos/os-from-zero/wiki/Basic-Linux-Commands#ln) を読んでください。
+
+## Linux の各種コマンドの意味は何ですか？
+
+ls や cd、ln など、本書で使用するコマンドや相対パス、変数といった概念などの説明をまとめていますので、確認してください。 [これだけは知っておきたい Linux コマンド](https://github.com/uchan-nos/os-from-zero/wiki/Basic-Linux-Commands)
