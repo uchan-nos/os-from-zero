@@ -61,7 +61,7 @@ Windows はどうやら、FAT32 でフォーマットできるサイズの上限
 本書では $HOME/edk2 に MikanLoaderPkg という名前のシンボリックリンクを作ります。
 `ln -s` の引数を打ち間違うなど、意図しないリンクを作成してしまった場合、再度同じコマンドを実行してもエラーになってしまいます。
 
-解決方法は [これだけは知っておきたい Linux コマンド の ln の節](https://github.com/uchan-nos/os-from-zero/wiki/Basic-Linux-Commands#ln) を読んでください。
+解決方法は [これだけは知っておきたい Linux コマンド の rm の節](https://github.com/uchan-nos/os-from-zero/wiki/Basic-Linux-Commands#rm) を読んでください。
 
 ## Linux の各種コマンドの意味は何ですか？
 
