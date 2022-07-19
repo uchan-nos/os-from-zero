@@ -14,6 +14,9 @@
         $ git checkout osbook_day03a
         $ cd kernel
         ```
+- p.228 第3段落の1行目
+    - 誤：直後に `Initial Count` レジスタの値を読み出すことで
+    - 正：直後に `Current Count` レジスタの値を読み出すことで
 - p.255 第2段落の1行目
     - 誤：`Layer::Draw()` に対して描画範囲を指定
     - 正：`Layer::DrawTo()` に対して描画範囲を指定
