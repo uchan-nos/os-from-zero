@@ -13,7 +13,7 @@
 MikanOS の開発環境が無くても、MikanOS をとりあえず起動して楽しめます。
 今のところ Windows 限定です。
 
-ダウンロードは https://github.com/uchan-nos/mikanos/releases/tag/v1.0 から可能です。
+ダウンロードは [MikanOS v1.0 リリース](https://github.com/uchan-nos/mikanos/releases/tag/v1.0) から可能です。
 mikanos_otegaru_pack-v1.0.zip がお手軽パックです。
 
 ## 質疑応答
