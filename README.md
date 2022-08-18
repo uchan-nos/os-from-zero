@@ -9,11 +9,12 @@
 
 ## News
 
-翔泳社の「ITエンジニア本大賞2022」というイベントが開催中です。投票が多い本に賞が贈られます。
+「MikanOS お手軽パック」をリリースしました。
+MikanOS の開発環境が無くても、MikanOS をとりあえず起動して楽しめます。
+今のところ Windows 限定です。
 
-是非「ゼロからのOS自作入門」へ投票をお願いします！本書の ISBN は 9784839975869 で、投票締め切りは 2021/12/12 です。
-
-ITエンジニア本大賞2022 投票ページ→ https://www.shoeisha.co.jp/campaign/award/vote/
+ダウンロードは https://github.com/uchan-nos/mikanos/releases/tag/v1.0 から可能です。
+mikanos_otegaru_pack-v1.0.zip がお手軽パックです。
 
 ## 質疑応答
 
@@ -91,14 +92,3 @@ MikanOS を改造したり、独自の OS を作ったりしたら、ぜひ個�
 
 osdev-jp では、定期的に「自作 OS もくもく会」を開催しています。よろしければご参加ください。
 もくもく会の開催が決まると [connpass の osdev-jp ページ](https://osdev-jp.connpass.com/) で告知、募集が行われます。
-
-## プレゼント企画
-
-22 歳以下の未就業の方に本書を抽選でプレゼントいたします。
-
-プレゼント企画は合計 3 回実施する予定です。各回の当選人数は 3 名を予定しています。
-- 第1弾：締め切り 2021 年 3 月 21 日
-- 第2弾：締め切り 2021 年 3 月 31 日
-- 第3弾：締め切り 2021 年 4 月 21 日
-
-第3弾の応募はこちらから： [「ゼロからのOS自作入門」プレゼント（第3弾）](https://docs.google.com/forms/d/e/1FAIpQLSdtn_43oqselsCWfd6quo39sUTblWAs6CMSIjdI96js2qU23A/viewform?usp=sf_link)
