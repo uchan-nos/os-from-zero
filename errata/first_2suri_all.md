@@ -36,6 +36,12 @@
 - p.108 表4.4タイトル
     - 誤：クラスのvtable
     - 正：`Base`クラスのvtable
+- p.119 第1段落の6行目
+    - 誤：「1.2 結局何をやったのか」を参照
+    - 正：「1.5 結局、何をやったのか？」を参照
+- p.140 第5段落の6行目
+    - 誤：eXtended Host Controller Interface
+    - 正：eXtensible Host Controller Interface
 - p.215 第3段落の1行目
     - 誤：**リスト 9.1** 1 に
     - 正：**リスト 9.11** に

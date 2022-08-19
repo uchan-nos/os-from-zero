@@ -23,6 +23,12 @@
         $ git checkout osbook_day03a
         $ cd kernel
         ```
+- p.119 第1段落の6行目
+    - 誤：「1.2 結局何をやったのか」を参照
+    - 正：「1.5 結局、何をやったのか？」を参照
+- p.140 第5段落の6行目
+    - 誤：eXtended Host Controller Interface
+    - 正：eXtensible Host Controller Interface
 - p.228 第3段落の1行目
     - 誤：直後に `Initial Count` レジスタの値を読み出すことで
     - 正：直後に `Current Count` レジスタの値を読み出すことで

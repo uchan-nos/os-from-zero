@@ -196,9 +196,15 @@
 - p.110 最終段落の1行目
     - 誤：図4.4
     - 正：**図4.4**
+- p.119 第1段落の6行目
+    - 誤：「1.2 結局何をやったのか」を参照
+    - 正：「1.5 結局、何をやったのか？」を参照
 - p.137 リスト6.4タイトル
     - 誤：（graphics.hpp）
     - 正：（osbook_day06cのgraphics.hpp）
+- p.140 第5段落の6行目
+    - 誤：eXtended Host Controller Interface
+    - 正：eXtensible Host Controller Interface
 - p.143 表6.1
     - ビット位置「10:8」と「7:0」のフォントを、その他と揃える
 - p.215 第3段落の1行目
