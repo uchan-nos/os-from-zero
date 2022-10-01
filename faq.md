@@ -66,3 +66,25 @@ Windows はどうやら、FAT32 でフォーマットできるサイズの上限
 ## Linux の各種コマンドの意味は何ですか？
 
 ls や cd、ln など、本書で使用するコマンドや相対パス、変数といった概念などの説明をまとめていますので、確認してください。 [これだけは知っておきたい Linux コマンド](https://github.com/uchan-nos/os-from-zero/wiki/Basic-Linux-Commands)
+
+## RegisterFilterLib 関係のエラーで MikanLoaderPkg がビルドできません
+
+EDK II で MikanLoaderPkg をビルドしようとしても次のようなエラーが出ることがあります。
+
+    /home/uchan/edk2/MikanLoaderPkg/MikanLoaderPkg.dsc(...): error 4000: Instance of library class [RegisterFilterLib] is not found
+            in [/home/uchan/edk2/MdePkg/Library/BaseLib/BaseLib.inf] [X64]
+            consumed by module [/home/uchan/edk2/MikanLoaderPkg/Loader.inf]
+            
+エラーの解消方法は主に 2 つあります。
+
+1. 古い EDK II を使う方法
+   - 2021/04/08 にエラーの原因となる変更が EDK II に導入されたので、それ以前のバージョンを使うことでエラーを回避できます。 
+   - 具体的には次のコマンドを実行します。
+     ```
+     $ cd $HOME/edk2
+     $ git checkout 38c8be123aced4cc8ad5c7e0da9121a181b94251
+     ```
+2. MikanLoaderPkg.dsc に RegisterFilterLib を追加する方法
+   - MikanLoaderPkg.dsc を修正すれば最新の EDK II でビルドできるようになります。
+   - 変更の内容 https://github.com/uchan-nos/mikanos/commit/b5f7740c04002e67a95af16a5c6e073b664bf3f5
+     - kernel/Makefile の修正は Clang 14 に対応するための記述であり、RegisterFilterLib のエラーとは関係ありません。
