@@ -23,3 +23,8 @@
 - p.255 第2段落の2行目
     - 誤：`Layer::Draw()` 側を改造
     - 正：`Layer::DrawTo()` 側を改造
+- p.501
+    - 誤：`Task`クラスはもともと、そのタスク用のスタックポインタを保存するための変数`Task::stack_ptr_`を持っています。この変数に並べて`Task::os_stack_ptr_`を持たせました。
+    - 正：`Task`クラスはもともと、そのタスク用のスタックポインタを保存するための変数`Task::context_.rsp`を持っています。この変数に加えて`Task::os_stack_ptr_`を持たせました。
+        - `stack_ptr_`→`context_.rsp`
+        - 並べて→加えて
