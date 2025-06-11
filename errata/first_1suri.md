@@ -81,7 +81,7 @@
     - リスト最終行と脚注1が重なってしまっている
     - リストの最終行は `v = v * 10 + (s[i] - '0');`
     - 脚注1は「＊1　RPN：Reverse Polish Notation」
-- p.501
+- p.501 最終段落の2行目
     - 誤：`Task`クラスはもともと、そのタスク用のスタックポインタを保存するための変数`Task::stack_ptr_`を持っています。この変数に並べて`Task::os_stack_ptr_`を持たせました。
     - 正：`Task`クラスはもともと、そのタスク用のスタックポインタを保存するための変数`Task::context_.rsp`を持っています。この変数に加えて`Task::os_stack_ptr_`を持たせました。
         - `stack_ptr_`→`context_.rsp`
