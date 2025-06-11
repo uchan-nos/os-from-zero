@@ -40,7 +40,7 @@ Discord 招待リンク→ [discord.gg/w227g2Q](https://discord.gg/w227g2Q)
 ## 正誤情報
 
 正誤情報は errata ディレクトリに随時追加していきます。
-初版の正誤情報へのリンク： [第1刷](./errata/first_1suri.md) [第2刷](./errata/first_2suri.md) [第3刷](./errata/first_3suri.md) [第4刷](./errata/first_4suri.md) [第5刷](./errata/first_5suri.md)
+初版の正誤情報へのリンク： [第1刷](./errata/first_1suri.md) [第2刷](./errata/first_2suri.md) [第3刷](./errata/first_3suri.md) [第4刷](./errata/first_4suri.md) [第5刷](./errata/first_5suri.md) [第6刷](./errata/first_6suri.md)
 
 ## 参考文献 URL
 
